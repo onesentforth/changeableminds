@@ -1,4 +1,5 @@
-baseURL: http://localhost:1313/
+#baseURL: http://localhost:1313/
+baseURL: https://gracious-noether-52f9a2.netlify.app
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"
